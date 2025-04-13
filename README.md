@@ -1,4 +1,4 @@
 # Demo
 This is my first git repo
 <br>
-Author - Ruksar Sayed
+Author - Ruksar(ruksar-sayed)
